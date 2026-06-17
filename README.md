@@ -24,4 +24,4 @@ Feel free to use this package in your own projects. If you do, please credit bot
 
 Thank you, and happy developing!
 
-Please GO to Realeaces for the package
+Please GO to Realeases for the package
